@@ -22,5 +22,5 @@
 -  `rm -rf File_Clone `
 - `git clone https://github.com/bitul404/File_Clone `
 - `cd File_Clone `
-- `python File.py `
+- `python BITUL.py `
 
